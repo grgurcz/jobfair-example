@@ -1,6 +1,6 @@
 # Example repo
 
-This is an example repository for the purpose of workshop at JobFari
+This is an example repository for the purpose of workshop at JobFair
 
 ## Lorem ipsum :)
 
